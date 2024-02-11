@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const axios = require('axios');
-const apiKey = 'live_a5vyFVPMQVmvBx4gOJZoSPT74q85N3SDOsiL9cmucqjXi1iSEJke0j68hzocftXM';
-const botToken = 'MTIwNjE3MjkxNDQ3OTUzODE3Ng.GHNsOb.FJqILkYylAlM9jvR__SjgxYlzyDenluewo3-yA';
+const apiKey = 'REPLACE WITH YOUR CATAPI KEY';
+const botToken = 'REPLACE WITH YOUR DISCORD BOT TOKEN';
 const targetUsername = '.qazwsx';
 
 const client = new Discord.Client({
